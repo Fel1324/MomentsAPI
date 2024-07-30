@@ -1,4 +1,3 @@
-import { Application } from '@adonisjs/core/app'
 import app from '@adonisjs/core/services/app'
 import router from '@adonisjs/core/services/router'
 
