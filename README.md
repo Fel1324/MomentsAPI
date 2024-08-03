@@ -81,9 +81,27 @@
 
 ```
 # Clone este repositório
-$ 
+$ git clone https://github.com/Fel1324/MomentsAPI.git
 
+# Acesse a pasta da API no terminal/cmd
+$ cd MomentsAPI
+$ cd moments-api
 
+# Instale as dependências da API
+$ npm install ou npm i
+
+# Crie arquivo .env
+$ copie e cole o arquivo .env.example
+$ renomeie o novo arquivo para .env e depois o abra
+
+# Gere a APP_KEY
+$ node ace generate:key
+
+# Rode as migrações
+$ mkdir tmp && node ace migration:run
+
+# Execute a API
+$ node ace serve
 ```
 
 > A API irá iniciar na porta 3333
@@ -92,7 +110,7 @@ $
 
 <h2 id="status">🚧 Status da API</h2>
 
-README em andamento...
+Projeto finalizado ✅
 
 <br>
 
