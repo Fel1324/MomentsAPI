@@ -90,7 +90,10 @@ $ cd moments-api
 # Instale as dependências da API
 $ npm install ou npm i
 
-# Crie arquivo .env
+# Acesse o projeto no editor de código (se achar necessário)
+$ code .
+
+# Crie o arquivo .env
 $ copie e cole o arquivo .env.example
 $ renomeie o novo arquivo para .env e depois o abra
 
