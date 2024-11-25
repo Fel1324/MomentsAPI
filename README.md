@@ -1,6 +1,6 @@
 <h1 align="center">📱 Moments API ⚙️</h1>
 
-<p align="center">Esta API foi desenvolvida na vídeo aula de API RESTful com AdonisJS, do canal Matheus Battisti - Hora de Codar, no YouTube.
+<p align="center">API desenvolvida na vídeo aula de API RESTful com AdonisJS, do canal Matheus Battisti - Hora de Codar, no YouTube.
 </p>
 
 <p align="center">
