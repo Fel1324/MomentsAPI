@@ -101,7 +101,8 @@ $ renomeie o novo arquivo para .env e depois o abra
 $ node ace generate:key
 
 # Rode as migrações
-$ mkdir tmp && node ace migration:run
+$ mkdir tmp
+$ node ace migration:run
 
 # Execute a API
 $ node ace serve
